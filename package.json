@@ -1,0 +1,23 @@
+{
+  "name": "go-get-podcast",
+  "version": "0.0.1",
+  "description": "Go Get Podcast",
+  "main": "index.js",
+  "authors": {
+    "name": "Nikolay",
+    "email": "tuzov.n@gmail.com"
+  },
+  "repository": "github/blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vuepress-theme-justskiv": "^0.6.5"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "vuepress-theme-justskiv": "^0.6.5"
+  }
+}
