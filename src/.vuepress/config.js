@@ -35,7 +35,8 @@ module.exports = {
         site_id: 'gogetpodcast',
         theme: 'dark',
       }`],
-    ['script', {}, `!function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement("script"),c=".js",d=n.head||n.body;"noModule"in r?(r.type="module",c=".mjs"):r.async=!0,r.defer=!0,r.src=remark_config.host+"/web/"+e[o]+c,d.appendChild(r)}}(remark_config.components||["embed"],document);`],
+    ['script', {defer: true, src: 'https://remark42.gogetpodcast.ru/web/embed.js'}, ``],
+    // ['script', {defer: true, src: 'http://localhost:8082/web/embed.js'}, ``],
   ],
 
   // wordPerminute: {cn: 300, en: 160},
