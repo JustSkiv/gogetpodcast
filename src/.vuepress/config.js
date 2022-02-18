@@ -13,8 +13,7 @@ module.exports = {
     },
   },
 
-  // theme: 'vuepress-theme-justskiv',
-  theme: '/Users/skiv/Projects/vuepress-theme-justskiv',
+  theme: 'vuepress-theme-justskiv',
 
   head: [
     ['meta', {name: 'theme-color', content: '#3eaf7c'}],
