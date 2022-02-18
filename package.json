@@ -14,10 +14,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "vuepress-theme-justskiv": "^0.6.5"
+    "vuepress-theme-justskiv": "1.0.0"
   },
   "devDependencies": {
     "vuepress": "^1.5.3",
-    "vuepress-theme-justskiv": "^0.6.5"
+    "vuepress-theme-justskiv": "1.0.0"
   }
 }
