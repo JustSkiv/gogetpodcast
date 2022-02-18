@@ -31,7 +31,7 @@ module.exports = {
 
     //remark42
     ['script', {}, `var remark_config = {
-        host: 'http://remark42.gogetpodcast.ru/',
+        host: 'https://remark42.gogetpodcast.ru',
         site_id: 'gogetpodcast',
         theme: 'dark',
       }`],
