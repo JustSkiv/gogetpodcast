@@ -9,11 +9,9 @@ export default {
   name: "Remark",
   mounted() {
     this.$eventBus.$on('EV_SET_LIGHT_MODE', () => {
-      console.log("light mode")
       this.setLiteTheme()
     })
     this.$eventBus.$on('EV_SET_DARK_MODE', () => {
-      console.log("dark mode")
       this.setDarkTheme()
     })
   },
