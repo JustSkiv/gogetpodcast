@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       type: 'github',
-      link: 'JustSkiv'
+      link: 'JustSkiv/gogetpodcast'
     },
     // {
     //   type: 'feed',
