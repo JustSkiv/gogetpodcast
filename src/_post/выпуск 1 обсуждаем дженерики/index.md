@@ -16,7 +16,7 @@ tags:
 
 <SoundCloudEmbed title="Выпуск #1: Обсуждаем Дженерики"
 author="Go Get Podcast"
-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1216381780&color=%2391857c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1218190630&color=%2391857c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
 />
 
 <Remark />
