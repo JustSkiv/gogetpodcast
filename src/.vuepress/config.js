@@ -29,6 +29,14 @@ module.exports = {
     ['noscript', {}, `
         <div><img src="https://mc.yandex.ru/watch/82930849" style="position:absolute; left:-9999px;" alt="" /></div>
     `],
+
+    //remark42
+    ['script', {}, `var remark_config = {
+        host: 'http://remark42.gogetpodcast.ru/',
+        site_id: 'gogetpodcast',
+        theme: 'dark',
+      }`],
+    ['script', {}, `!function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement("script"),c=".js",d=n.head||n.body;"noModule"in r?(r.type="module",c=".mjs"):r.async=!0,r.defer=!0,r.src=remark_config.host+"/web/"+e[o]+c,d.appendChild(r)}}(remark_config.components||["embed"],document);`],
   ],
 
   // wordPerminute: {cn: 300, en: 160},
