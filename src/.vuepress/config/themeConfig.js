@@ -11,7 +11,11 @@ module.exports = {
     {
       text: 'О нас',
       link: '/about/'
-    }
+    },
+    {
+      text: 'Где послушать?',
+      link: '/feeds/'
+    },
   ],
   sidebar: {
     /*'/guide/': [

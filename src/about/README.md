@@ -1,6 +1,6 @@
 ---
 title: О нас
-cover: /images/go.png
+cover: /images/about.png
 sidebar: auto
 ---
 
