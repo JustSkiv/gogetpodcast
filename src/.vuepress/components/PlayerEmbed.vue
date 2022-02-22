@@ -1,7 +1,8 @@
 <template>
   <span>
-    <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
-            :src="src"></iframe>
+    <iframe style="border-radius:12px" :src=embedSrc width="100%" height="232" frameBorder="0"
+            allowfullscreen=""
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
      <div style="font-size: 10px;
       color: #cccccc;
@@ -11,10 +12,10 @@
        font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;
        font-weight: 100;">
 
-    <a href="https://soundcloud.com/go-get-podcast" title="Go Get Podcast" target="_blank"
+    <a :href=authorLink :title=author target="_blank"
        style="color: #cccccc; text-decoration: none;">{{ author }}</a> · <a
-         href="https://soundcloud.com/go-get-podcast/vypusk-1-obsuzhdaem-dzheneriki"
-         title="Выпуск 1: Обсуждаем дженерики" target="_blank"
+         :href=link
+         :title=title
          style="color: #cccccc; text-decoration: none;">{{ title }}</a></div>
   </span>
 </template>
@@ -24,13 +25,25 @@ export default {
   props: {
     title: String,
     author: String,
+    authorId: String,
     src: String,
-    link: String,
+    episodeId: String,
   },
   data() {
     return {
       // title: 'title is missed'
     }
-  }
+  },
+  computed: {
+    embedSrc() {
+      return "https://open.spotify.com/embed/episode/" + this.episodeId;
+    },
+    link() {
+      return "https://open.spotify.com/episode/" + this.episodeId;
+    },
+    authorLink() {
+      return "https://open.spotify.com/show/" + this.authorId;
+    },
+  },
 }
 </script>
