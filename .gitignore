@@ -1,3 +1,5 @@
 # Project exclude paths
 /node_modules/
 /deploy/var/
+/src/.vuepress/dist/
+/.idea/
