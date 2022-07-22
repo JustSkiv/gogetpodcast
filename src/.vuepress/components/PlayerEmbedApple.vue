@@ -1,8 +1,9 @@
 <template>
   <span>
-    <iframe style="border-radius:12px" :src=embedSrc width="100%" height="232" frameBorder="0"
-            allowfullscreen=""
-            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+   <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" height="175"
+           style="width:100%;max-width:660px;overflow:hidden;background:transparent;border: 0;"
+           sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+           :src=embedSrc></iframe>
 
      <div style="font-size: 10px;
       color: #cccccc;
@@ -36,13 +37,13 @@ export default {
   },
   computed: {
     embedSrc() {
-      return "https://open.spotify.com/embed/episode/" + this.episodeId;
+      return "https://embed.podcasts.apple.com/us/podcast/" + this.authorId+ "?i=" + this.episodeId;
     },
     link() {
-      return "https://open.spotify.com/episode/" + this.episodeId;
+      return "https://podcasts.apple.com/us/podcast/" + this.authorId + "?i=" + this.episodeId;
     },
     authorLink() {
-      return "https://open.spotify.com/show/" + this.authorId;
+      return "https://podcasts.apple.com/us/podcast/go-get-podcast/" + this.authorId;
     },
   },
 }
