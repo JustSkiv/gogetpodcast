@@ -32,7 +32,7 @@ episodeId="1000571545735"
 
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA-2-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-go-%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B9-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-go-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9/id1610745137?i=1000571545735) (ITunes)
 - [SoundCloud](https://soundcloud.com/go-get-podcast/vypusk-1-pochemu-go-plokhoy-pochemu-go-khoroshiy)
-- [Яндес.Музыка](https://music.yandex.ru/album/21540938?dir=desc&activeTab=about) - скоро появится
+- [Яндес.Музыка](https://music.yandex.ru/album/21540938/track/106200218)
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcHJveHkuZ29vZ2xlLmNvbS9Hb0dldFBvZGNhc3Q?sa=X&ved=0CAMQ4aUDahcKEwiwvpyc2J35AhUAAAAAHQAAAAAQAg) - скоро появится
 - [ВК](https://vk.com/podcast-210788342_456239018)
 - [SoundCloud](https://soundcloud.com/go-get-podcast/vypusk-1-pochemu-go-plokhoy-pochemu-go-khoroshiy)
