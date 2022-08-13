@@ -25,6 +25,7 @@ episodeId="1000551530141"
 - [Яндекс.Музыка](https://music.yandex.ru/album/21540938/track/101881355)
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcHJveHkuZ29vZ2xlLmNvbS9Hb0dldFBvZGNhc3Q/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTIxODE5MDYzMA?sa=X&ved=0CAUQkfYCahcKEwioo9vc1535AhUAAAAAHQAAAAAQAQ)
 - [ВК](https://vk.com/podcast-210788342_456239017)
+- [Mave](https://gogetpodcast.mave.digital/ep-1)
 - [SoundCloud](https://soundcloud.com/go-get-podcast/vypusk-1-obsuzhdaem-dzheneriki-1)
 
 <Remark></Remark>
