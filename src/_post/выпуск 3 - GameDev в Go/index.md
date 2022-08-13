@@ -35,7 +35,7 @@ episodeId="1000575962662"
 - [Яндес.Музыка](https://music.yandex.ru/album/21540938/track/106536753)
 - [Mave](https://gogetpodcast.mave.digital/ep-3)
 - [ВК](https://vk.com/gogetpodcast?w=wall-210788342_4)
-- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjEwODYxNjcwNTMvc291bmRzLnJzcw?sa=X&ved=0CAMQ4aUDahcKEwiI8PrI_cP5AhUAAAAAHQAAAAAQAQ) _Скоро будет.._
+- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjEwODYxNjcwNTMvc291bmRzLnJzcw/episode/ZjZkNWNkZDYtODU4Yi00NDNjLWJjYzItMTFiOGMyZDA3YTNj?sa=X&ved=0CAUQkfYCahcKEwjgs5r8m8T5AhUAAAAAHQAAAAAQAQ)
 
 ## Тайминги
 
