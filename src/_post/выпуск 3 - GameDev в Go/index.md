@@ -32,9 +32,9 @@ episodeId="1000575962662"
 ## Где ещё можно послушать
 
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA-3-gamedev-%D0%B2-go/id1610745137?i=1000575962662) (ITunes)
+- [Яндес.Музыка](https://music.yandex.ru/album/21540938/track/106536753)
 - [Mave](https://gogetpodcast.mave.digital/ep-3)
 - [ВК](https://vk.com/gogetpodcast?w=wall-210788342_4)
-- [Яндес.Музыка](https://music.yandex.ru/album/21540938) _Скоро будет.._
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjEwODYxNjcwNTMvc291bmRzLnJzcw?sa=X&ved=0CAMQ4aUDahcKEwiI8PrI_cP5AhUAAAAAHQAAAAAQAQ) _Скоро будет.._
 
 ## Тайминги
