@@ -31,9 +31,9 @@ episodeId="1000579977073"
 
 - [Mave](https://gogetpodcast.mave.digital/ep-5)
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-5-%D1%87%D0%B8%D1%81%D1%82%D1%8B%D0%B9-%D0%BA%D0%BE%D0%B4-%D0%B2-go-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B3%D0%BE-%D1%82%D0%BE%D0%BD%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0/id1610745137?i=1000579977073) (ITunes)
+- [Яндекс Музыка](https://music.yandex.ru/album/21540938/track/107463341?dir=desc&activeTab=about)
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9jbG91ZC5tYXZlLmRpZ2l0YWwvNDAxMDI/episode/N2FiMWJkZTUtOWMzMS00Nzc1LTk0ZjMtNTA5ODVhYzE1ZDA3?sa=X&ved=0CAUQkfYCahcKEwiooqit3KH6AhUAAAAAHQAAAAAQCg)
 - [VK](https://vk.com/gogetpodcast?amp%3Bref=feed_notifications&z=podcast-210788342_456239021)
-- Яндекс Музыка - скоро будет
 
 ## Тайминги
 
