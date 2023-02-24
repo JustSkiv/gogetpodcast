@@ -1,11 +1,11 @@
 ---
 title: "Выпуск #8: Pet-проекты для разработчика"
-date: 2023-02-06
+date: 2023-02-24
 category: podcast
 excludeRelatedPost: true
 tags:
 - Golang
-- Обучение
+- Pet project
 ---
 Обсуждаем пет-проекты в жизни разработчика:
 
