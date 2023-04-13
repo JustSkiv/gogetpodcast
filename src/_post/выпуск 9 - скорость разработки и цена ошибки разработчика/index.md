@@ -36,7 +36,7 @@ episodeId="1000608731153"
 - [Mave](https://gogetpodcast.mave.digital/ep-9) - тут также есть список экзотических платформ, на которых можно послушать подкаст
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-9-%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-%D0%B8-%D1%86%D0%B5%D0%BD%D0%B0-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0/id1610745137?i=1000608731153) (ITunes)
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9jbG91ZC5tYXZlLmRpZ2l0YWwvNDAxMDI/episode/YzJmOTEzZmItZTAxNC00MzdiLWE5NmMtZTdjYWQzNjAwMWRi?sa=X&ved=0CAUQkfYCahcKEwjIibnzqab-AhUAAAAAHQAAAAAQAQ)
-- Яндекс Музыка - Скоро будет
+- [Яндекс Музыка](https://music.yandex.com/album/21540938/track/113011606)
 - [VK](https://vk.com/gogetpodcast?z=podcast-210788342_456239025)
 
 ## Тайминги
