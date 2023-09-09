@@ -1,11 +1,11 @@
 ---
 title: "Выпуск #11: Кто такой системный архитектор?"
-date: 2023-04-12
+date: 2023-09-09
 category: podcast
 excludeRelatedPost: true
 tags:
 - Golang
-- NewRelease
+- Interview
 ---
 Видео-вариант выпуска на YouTube: [ссылка](https://youtu.be/pFdFdv5YaTU).
 
