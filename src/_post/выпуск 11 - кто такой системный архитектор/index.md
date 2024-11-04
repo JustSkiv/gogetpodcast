@@ -31,7 +31,6 @@ episodeId="1000627240629"
 
 - [Mave](https://gogetpodcast.mave.digital/ep-11) - тут также есть список экзотических платформ, на которых можно послушать подкаст
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-11-%D0%BA%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80/id1610745137?i=1000627240629) (ITunes)
-- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9Hb0dldFBvZGNhc3Q/episode/ODY3NzM5N2MtMGRjZi00MDQ1LWFkYzQtZGE1NzdmOWY4ODNj?sa=X&ved=0CAUQkfYCahcKEwjIlr_R95yBAxUAAAAAHQAAAAAQAQ)
 - [Яндекс Музыка](https://music.yandex.com/album/21540938/track/117226244?activeTab=track-list&dir=desc)
 
 ## Тайминги

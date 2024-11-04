@@ -32,7 +32,6 @@ episodeId="1000598169195"
 
 - [Mave](https://gogetpodcast.mave.digital/ep-7) - тут также есть список экзотических платформ, на которых можно послушать подкаст
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-7-%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F-golang-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D1%83/id1610745137?i=1000598169195) (ITunes)
-- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9jbG91ZC5tYXZlLmRpZ2l0YWwvNDAxMDI/episode/NmVhNzM3ZmYtMDMyMC00MzFkLWE0YWEtNzkzZTE2MDYwMDMz?sa=X&ved=0CAUQkfYCahcKEwj43dnHjoD9AhUAAAAAHQAAAAAQAw)
 - [Яндекс Музыка](https://music.yandex.com/album/21540938/track/111262302?activeTab=about&dir=desc)
 - [VK](https://vk.com/gogetpodcast?z=podcast-210788342_456239023)
 

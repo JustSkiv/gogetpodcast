@@ -42,7 +42,6 @@ episodeId="1000578337978"
 
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-go-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0-%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8-%D0%BD%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D0%B5%D0%BB%D1%8F/id1610745137?i=1000578337978) (ITunes)
 - [Яндес.Музыка](https://music.yandex.ru/album/21540938/track/107037251)
-- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9jbG91ZC5tYXZlLmRpZ2l0YWwvNDAxMDI/episode/ZmYyY2IxMTQtMDkxYi00MjgzLThlMGQtZTQ5NGUxZGU1MzFm?sa=X&ved=0CAUQkfYCahcKEwjQ3JbX_fv5AhUAAAAAHQAAAAAQBA)
 - [ВК](https://vk.com/gogetpodcast?w=wall-210788342_5)
 - [Mave](https://gogetpodcast.mave.digital/ep-4)
 

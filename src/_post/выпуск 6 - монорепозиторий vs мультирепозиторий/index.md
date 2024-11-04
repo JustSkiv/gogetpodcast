@@ -31,7 +31,6 @@ episodeId="1000586423364"
 
 - [Mave](https://gogetpodcast.mave.digital/ep-6)
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-6-%D0%BC%D0%BE%D0%BD%D0%BE%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9-vs-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9/id1610745137?i=1000586423364) (ITunes)
-- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9jbG91ZC5tYXZlLmRpZ2l0YWwvNDAxMDI/episode/Yjg1ZWRhODEtZDU2MS00NmZkLWIwY2YtYmY2MzQ3NDY3M2Zl?sa=X&ved=0CAUQkfYCahcKEwiYh5ag3LL7AhUAAAAAHQAAAAAQCg)
 - [Яндекс Музыка](https://music.yandex.ru/album/21540938/track/108931086)
 - [VK](https://vk.com/gogetpodcast?z=podcast-210788342_456239022)
 

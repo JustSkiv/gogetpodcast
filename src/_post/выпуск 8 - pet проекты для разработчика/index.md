@@ -37,7 +37,6 @@ episodeId="1000601313949"
 
 - [Mave](https://gogetpodcast.mave.digital/ep-8) - тут также есть список экзотических платформ, на которых можно послушать подкаст
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-8-pet-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0/id1610745137?i=1000601313949) (ITunes)
-- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9jbG91ZC5tYXZlLmRpZ2l0YWwvNDAxMDI/episode/ODM2MDYyYTYtZGNiNS00ZTA4LWEyOGMtODYxMTljZmIyN2Jl?sa=X&ved=0CAUQkfYCahcKEwiIrL2W3a39AhUAAAAAHQAAAAAQAQ)
 - [Яндекс Музыка](https://music.yandex.com/album/21540938/track/111773477?activeTab=track-list&dir=desc)
 - [VK](https://vk.com/gogetpodcast?z=podcast-210788342_456239024)
 
